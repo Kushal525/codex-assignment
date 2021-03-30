@@ -68,6 +68,8 @@
     border-style: solid;
     border-width: 10px;
     border-color: rgb(171, 196, 237);
+    margin-left: 180px;
+    margin-right: -20px;
     padding-bottom: 80px;
     padding-right: 70px;
     padding-top: 80px;
@@ -79,6 +81,8 @@
 .testimonials2{
     background-color: #675aa3;
     border-radius: 35px;
+    margin-left: -30px;
+    margin-right: 180px;
     margin-top: 20px;
     color: white;
     z-index: -1;    

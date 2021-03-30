@@ -2,6 +2,8 @@
     background-color: rgb(220, 222, 234);
     display: flex;
     margin-top: 20px;
+    width: 100%;
+    margin-bottom: 100px;
 }
 
 .column{
@@ -17,11 +19,11 @@
     padding-left: 50px;
 }
 
-.aboutusleft{
+.homeleft{
     text-align: left;
-    margin-right: 100px;
+    padding-left: 60px;
+    margin-top: 100px;
 }
-
 h1{
     color: blue;
     text-align: center;
