@@ -12,7 +12,7 @@ const MyAboutUs = () =>{
                 <p>Ateeca Inc started by women entrepreneurs in the state of New
                     Jersey in the year 2005 with core focus to provide exceptional
                     Information Technology, Engineering, Scientific/clinical, Admin/-
-                    clerical & Accounting/Finance, professionals to manage time
+                    clerical &amp; Accounting/Finance, professionals to manage time
                     sensitive, mission critical process across the Enterprise.
                 </p>
                 <button className="aboutusbutton">Read More</button>
