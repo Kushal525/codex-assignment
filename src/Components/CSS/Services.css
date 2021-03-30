@@ -1,0 +1,52 @@
+.services{
+    display: flex;
+    background-color: rgb(228, 172, 172);
+}
+
+.services_column{
+    flex: 50%;
+}
+
+.services_border{
+    border-radius: 25px;
+    padding: 15px 25px;
+    color: white;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    border-color: red;
+    background-color: white;
+    margin-left: 80px;
+    margin-right: 50px;
+}
+
+.services_image1{
+    text-align: right;
+}
+
+.services_image2{
+    text-align: right;
+    margin-top: -6px;
+}
+
+.left_part4{
+    background-color: rgb(227, 69, 20);
+}
+
+.services_left_part{
+    text-align: left;
+}
+
+.services_left_part2{
+    text-align: right;
+}
+
+.services_heading{
+    color: blue;
+}
+
+hr{
+    border-style: dotted;
+    background-color: blue;
+    height: 2px;
+    border: none;
+}

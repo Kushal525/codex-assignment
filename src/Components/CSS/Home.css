@@ -1,0 +1,41 @@
+.home{
+    background-color:rgb(242, 243, 235);
+    display: flex;
+    color: #000;
+}
+
+.column{
+    flex: 50%;
+}
+
+.homeleft{
+    text-align: left;
+    padding-left: 60px;
+    margin-top: 100px;
+}
+
+.home_heading{
+    color: blue;
+    text-align: left;
+}
+
+img{
+    height: 100%;
+}
+
+.homebutton{
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 22px;
+    padding: 15px 25px;
+    margin-left: 20px;
+    color: blue;
+}
+
+.homebutton:hover {
+    background-color: blue;
+    color: white;
+}
+

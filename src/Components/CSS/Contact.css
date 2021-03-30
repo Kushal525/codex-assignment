@@ -1,0 +1,57 @@
+.contact{
+    background-color: blue;
+    margin-top: 80px;
+}
+
+.get_in_touch{
+    padding-top: 30px;
+}
+
+.contact_heading{
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+}
+.contact2{
+    display: flex;
+}
+
+.contact_column{
+    flex: 50%;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.contact_seperator_line{
+    border-style: solid;
+    height: 0.5px;
+    border-color: white;
+    margin-top: -10px;
+    margin-left: 20px;
+    
+}
+
+.contact_heading{
+    color: white;
+}
+
+.contact_link{
+    display: flex;
+    flex-direction: row;
+}
+
+.contact1{
+    margin-right: 50px;
+}
+
+.contact_icons{
+    margin-top: 20px;
+}
+
+.footer{
+    flex-shrink: 0;
+    text-align: center;
+    background-color: tomato;
+    color: white;
+    margin-bottom: -20px;
+}

@@ -1,0 +1,47 @@
+.AboutUs{
+    background-color: rgb(220, 222, 234);
+    display: flex;
+    margin-top: 20px;
+}
+
+.column{
+    flex: 50%;
+}
+
+.aboutusright{
+    text-align: right;
+    margin-top: 100px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+img{
+    height: 100%;
+}
+
+.aboutusbutton{
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 22px;
+    padding: 15px 25px;
+    margin-left: 20px;
+    color: blue;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.homebutton:hover {
+    background-color: blue;
+    color: white;
+}
+
+span{
+    text-align: center;
+}

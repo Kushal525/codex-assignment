@@ -1,0 +1,53 @@
+.industry{
+    background-color:rgb(111, 77, 189);
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -25px;
+}
+
+#industry{
+    background-color:rgb(111, 77, 189);
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+
+.industry_heading{
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 40px;
+    color: white;
+}
+
+.column{
+    flex: 50%;
+}
+
+.industry_paragraph{
+    text-align: left;
+    margin-bottom: 50px;
+    padding-left: 25px;
+    padding-right: 50px;
+    color: white;
+}
+
+.industry_icons{
+    text-align: left;
+    padding-left: 20px;
+}
+
+.industry_button{
+    outline: none;
+    cursor: pointer;
+    border-radius: 22px;
+    padding: 15px 25px;
+    color: white;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    background-color:rgb(111, 77, 189);
+    border-color: white;
+}
+
+.industry_button:hover {
+    background-color: white;
+    color:rgb(111, 77, 189);
+}
