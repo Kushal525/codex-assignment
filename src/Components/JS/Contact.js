@@ -9,7 +9,7 @@ const MyContact = () =>{
     return(
         <div className="contact">
             <div className="contact1">
-                <h1 className="contact_heading get_in_touch">GET IN TOUCH</h1>
+                <h1 className="contact_heading get_in_touch">Get In Touch</h1>
             </div>
             <div className="contact2">
                 <div className="contact_column contact1">
