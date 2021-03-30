@@ -50,7 +50,7 @@ const MyTechnology = () =>{
 
             <div className="clients">
                 <div className="clients_column client1">
-                    <img src="client.png" alt="client1"/>
+                    <img src="client.png" width="90%" alt="client1"/>
                 </div>
             </div>
 

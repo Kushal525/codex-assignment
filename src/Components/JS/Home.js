@@ -15,7 +15,7 @@ const MyHome = () =>{
                 <button className="homebutton">Get In Touch</button>
             </div>
             <div className="homeright column">
-                <img src="Home.png" alt="Home" />
+                <img src="Home.png" width="90%" alt="Home" />
             </div>
         </div>
     );
