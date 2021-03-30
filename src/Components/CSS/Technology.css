@@ -74,6 +74,7 @@
     padding-left: 40px;
     text-align: left;
     color: blue;
+    font-size: 15px;
 }
 
 .testimonials2{
@@ -85,7 +86,7 @@
 }
 
 .testimonials2_paragraph{
-    size: 10px;
+    font-size: 15px;
     padding-top: 90px;
     padding-left: 90px;
     padding-right: 90px;
@@ -96,4 +97,5 @@
 
 .testimonials_by{
     text-align: right;
+    font-size: 15px;
 }
